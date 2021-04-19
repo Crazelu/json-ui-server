@@ -5,8 +5,8 @@ const abeg = {
     "shouldShowDismiss": true,
     "isFullScreen": true,
     "size": {
-        "height": 400,
-        "width": 400
+        "height": 400.0,
+        "width": 400.0
     },
     "type": "listview",
     "children": [
@@ -77,8 +77,8 @@ const netflix = {
     "shouldShowDismiss": true,
     "isFullScreen": true,
     "size": {
-        "height": 400,
-        "width": 400
+        "height": 400.0,
+        "width": 400.0
     },
     "type": "listview",
     "children": [
@@ -520,8 +520,8 @@ const bamboo = {
     "shouldShowDismiss": true,
     "isFullScreen": true,
     "size": {
-        "height": 400,
-        "width": 400
+        "height": 400.0,
+        "width": 400.0
     },
     "type": "listview",
     "children": [
